@@ -1,7 +1,6 @@
 """
-Assorted utility methods written by Rodrigo Nemmen.
-
-These methods are not publicly available.
+Thin disk spectrum
+======================
 """
 import numpy, pylab
 import scipy.integrate
