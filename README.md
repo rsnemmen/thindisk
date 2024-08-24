@@ -17,6 +17,8 @@ lognu=np.linspace(13,15,50)
 lum=disk.thindisk2(lognu,4e6,1e-3,3.,30.)
 ```
 
+![Plot comparing two spectra of thin accretion disk with different values of inner radii](plot.png)
+
 ### Arguments to `thindisk2`
 
 1. array of log10(frequencies)
